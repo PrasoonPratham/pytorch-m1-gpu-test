@@ -1,0 +1,2 @@
+- Add more tests
+- Compare CPU and RTX 3070
